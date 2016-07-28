@@ -1,0 +1,14 @@
+layout_spectrum: 0.05472486210055649
+typography_spectrum: 0.7509655505418777
+color:
+  brandStrength: 0.8473583476152271
+  lightness: 0.9464591182768345
+  saturation: 0.8511882065795362
+  rhythmicContrast: 0.05436460627242923
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: 'innate '
